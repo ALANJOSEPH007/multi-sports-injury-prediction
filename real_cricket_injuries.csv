@@ -1,0 +1,342 @@
+player_name,injury,injury_date,days_out
+Virat Kohli,knee ligament tear,2024-03-18,60
+Virat Kohli,concussion,2022-09-16,53
+Rohit Sharma,ankle sprain,2023-02-24,49
+Rohit Sharma,groin injury,2023-05-26,82
+MS Dhoni,side strain,2022-08-14,62
+MS Dhoni,finger dislocation,2023-02-01,83
+KL Rahul,side strain,2021-12-05,63
+KL Rahul,hamstring strain,2022-07-25,45
+KL Rahul,shoulder dislocation,2021-01-11,16
+Shubman Gill,groin injury,2024-03-01,40
+Shubman Gill,shoulder dislocation,2021-11-18,89
+Shubman Gill,hamstring strain,2023-03-06,12
+Ravindra Jadeja,side strain,2021-12-10,26
+Ravindra Jadeja,knee ligament tear,2021-09-17,40
+Ravindra Jadeja,wrist fracture,2023-07-26,39
+Jasprit Bumrah,groin injury,2023-01-28,17
+Jasprit Bumrah,side strain,2021-05-20,39
+Jasprit Bumrah,wrist fracture,2021-11-08,31
+Jasprit Bumrah,side strain,2023-08-31,37
+Mohammed Shami,side strain,2023-06-04,30
+Mohammed Shami,hamstring strain,2024-03-01,61
+Mohammed Shami,knee ligament tear,2021-12-03,20
+Mohammed Shami,knee ligament tear,2021-10-21,84
+Mohammed Shami,hamstring strain,2022-01-25,70
+Hardik Pandya,concussion,2022-03-28,35
+Hardik Pandya,knee ligament tear,2021-08-08,72
+Yuzvendra Chahal,concussion,2022-12-15,90
+Yuzvendra Chahal,hamstring strain,2021-02-22,36
+Yuzvendra Chahal,knee ligament tear,2021-09-01,76
+Yuzvendra Chahal,hamstring strain,2024-02-08,25
+Yuzvendra Chahal,back spasm,2022-05-11,44
+Shikhar Dhawan,wrist fracture,2023-09-23,37
+Shikhar Dhawan,groin injury,2022-12-18,82
+Rishabh Pant,concussion,2021-05-15,80
+Rishabh Pant,hamstring strain,2021-04-07,66
+Suryakumar Yadav,side strain,2022-03-31,38
+Suryakumar Yadav,finger dislocation,2023-08-23,23
+Suryakumar Yadav,hamstring strain,2022-04-28,41
+Suryakumar Yadav,side strain,2022-05-07,85
+Sanju Samson,side strain,2023-07-31,55
+Sanju Samson,finger dislocation,2021-01-25,71
+Sanju Samson,hamstring strain,2021-04-16,55
+Sanju Samson,shoulder dislocation,2022-03-10,55
+Axar Patel,knee ligament tear,2023-06-02,55
+Axar Patel,ankle sprain,2023-05-23,89
+Ishan Kishan,knee ligament tear,2022-02-03,62
+Ishan Kishan,finger dislocation,2022-03-13,34
+Prithvi Shaw,back spasm,2021-07-14,13
+Prithvi Shaw,back spasm,2024-01-01,45
+Prithvi Shaw,shoulder dislocation,2022-09-27,67
+Umesh Yadav,ankle sprain,2022-01-05,33
+Umesh Yadav,concussion,2023-12-30,42
+Umesh Yadav,knee ligament tear,2023-04-11,15
+Umesh Yadav,shoulder dislocation,2022-09-22,37
+Kuldeep Yadav,side strain,2023-09-05,82
+Kuldeep Yadav,concussion,2021-09-01,73
+Kuldeep Yadav,shoulder dislocation,2022-08-08,48
+Kuldeep Yadav,wrist fracture,2022-02-08,55
+Deepak Chahar,back spasm,2021-10-31,85
+Deepak Chahar,shoulder dislocation,2021-03-30,28
+Deepak Chahar,wrist fracture,2023-07-13,83
+Deepak Chahar,side strain,2022-02-14,51
+Bhuvneshwar Kumar,concussion,2023-04-01,16
+Bhuvneshwar Kumar,back spasm,2021-12-19,82
+Bhuvneshwar Kumar,wrist fracture,2024-01-28,5
+David Warner,ankle sprain,2021-03-03,14
+David Warner,knee ligament tear,2024-01-18,59
+David Warner,ankle sprain,2024-03-01,23
+Steve Smith,wrist fracture,2022-04-16,57
+Steve Smith,ankle sprain,2023-02-02,56
+Steve Smith,shoulder dislocation,2022-09-14,47
+Steve Smith,wrist fracture,2023-06-16,61
+Pat Cummins,wrist fracture,2021-11-20,28
+Pat Cummins,ankle sprain,2023-09-15,84
+Mitchell Starc,ankle sprain,2022-09-10,42
+Mitchell Starc,finger dislocation,2022-07-29,56
+Josh Hazlewood,groin injury,2021-09-20,24
+Josh Hazlewood,wrist fracture,2022-03-31,48
+Josh Hazlewood,back spasm,2024-01-03,29
+Glenn Maxwell,back spasm,2024-01-30,47
+Glenn Maxwell,concussion,2022-01-28,46
+Glenn Maxwell,shoulder dislocation,2022-11-11,25
+Marcus Stoinis,concussion,2023-11-28,64
+Marcus Stoinis,side strain,2022-05-13,37
+Travis Head,back spasm,2022-08-28,56
+Travis Head,shoulder dislocation,2022-10-28,6
+Adam Zampa,hamstring strain,2022-03-03,26
+Adam Zampa,hamstring strain,2022-06-09,11
+Adam Zampa,shoulder dislocation,2022-05-06,51
+Adam Zampa,knee ligament tear,2022-05-14,70
+Adam Zampa,concussion,2023-02-12,48
+Alex Carey,knee ligament tear,2021-10-12,15
+Alex Carey,concussion,2023-10-30,62
+Alex Carey,hamstring strain,2023-06-29,76
+Alex Carey,groin injury,2021-07-17,19
+Alex Carey,groin injury,2023-01-05,87
+Joe Root,groin injury,2024-03-19,83
+Joe Root,knee ligament tear,2023-01-01,43
+Joe Root,back spasm,2021-05-12,55
+Ben Stokes,hamstring strain,2023-09-16,12
+Ben Stokes,hamstring strain,2022-09-23,60
+Ben Stokes,knee ligament tear,2023-12-10,26
+Ben Stokes,shoulder dislocation,2021-09-26,84
+Jonny Bairstow,ankle sprain,2021-09-17,44
+Jonny Bairstow,finger dislocation,2023-10-29,57
+Jonny Bairstow,concussion,2023-04-09,21
+Jofra Archer,wrist fracture,2021-03-07,69
+Jofra Archer,groin injury,2023-10-02,84
+Jos Buttler,shoulder dislocation,2024-03-05,9
+Jos Buttler,back spasm,2023-03-26,34
+Jos Buttler,ankle sprain,2022-07-30,11
+Jos Buttler,knee ligament tear,2022-07-26,39
+Moeen Ali,knee ligament tear,2023-09-07,36
+Moeen Ali,shoulder dislocation,2024-04-06,15
+Mark Wood,finger dislocation,2022-01-24,6
+Mark Wood,concussion,2023-02-01,31
+Adil Rashid,shoulder dislocation,2023-03-25,76
+Adil Rashid,finger dislocation,2021-05-17,26
+Adil Rashid,knee ligament tear,2022-03-10,55
+Adil Rashid,knee ligament tear,2021-04-27,82
+Adil Rashid,knee ligament tear,2023-07-12,70
+Chris Woakes,wrist fracture,2022-01-11,71
+Chris Woakes,shoulder dislocation,2021-10-26,8
+Chris Woakes,wrist fracture,2022-02-21,57
+Chris Woakes,side strain,2023-01-13,42
+Chris Woakes,concussion,2021-09-13,33
+Kane Williamson,finger dislocation,2021-02-16,68
+Kane Williamson,back spasm,2023-03-14,7
+Kane Williamson,groin injury,2023-02-28,25
+Trent Boult,wrist fracture,2023-06-16,8
+Trent Boult,wrist fracture,2021-07-17,25
+Trent Boult,groin injury,2022-11-26,31
+Trent Boult,knee ligament tear,2023-03-20,58
+Trent Boult,finger dislocation,2024-02-15,71
+Tim Southee,knee ligament tear,2022-11-16,79
+Tim Southee,knee ligament tear,2021-05-12,35
+Devon Conway,ankle sprain,2021-07-10,55
+Devon Conway,shoulder dislocation,2024-02-18,22
+Devon Conway,hamstring strain,2023-11-15,51
+Devon Conway,finger dislocation,2023-01-24,8
+Tom Latham,finger dislocation,2022-08-19,55
+Tom Latham,groin injury,2021-01-09,37
+Tom Latham,hamstring strain,2023-05-24,54
+Tom Latham,finger dislocation,2022-01-07,90
+Tom Latham,hamstring strain,2022-04-14,42
+Daryl Mitchell,shoulder dislocation,2023-03-29,15
+Daryl Mitchell,knee ligament tear,2022-04-22,55
+Rachin Ravindra,ankle sprain,2022-03-07,66
+Rachin Ravindra,ankle sprain,2021-10-24,42
+Rachin Ravindra,finger dislocation,2021-09-20,76
+Matt Henry,concussion,2022-08-21,19
+Matt Henry,hamstring strain,2024-01-07,45
+Matt Henry,back spasm,2021-06-12,82
+Lockie Ferguson,hamstring strain,2022-03-05,47
+Lockie Ferguson,wrist fracture,2023-01-22,9
+Lockie Ferguson,concussion,2022-07-30,54
+Lockie Ferguson,groin injury,2022-01-04,5
+Martin Guptill,shoulder dislocation,2024-01-29,76
+Martin Guptill,wrist fracture,2023-01-12,88
+Martin Guptill,knee ligament tear,2021-07-14,61
+Martin Guptill,shoulder dislocation,2023-09-07,82
+Babar Azam,finger dislocation,2022-08-13,81
+Babar Azam,finger dislocation,2022-12-13,79
+Babar Azam,knee ligament tear,2023-03-19,76
+Babar Azam,groin injury,2022-04-11,58
+Babar Azam,concussion,2023-08-14,73
+Shaheen Afridi,side strain,2021-06-12,53
+Shaheen Afridi,finger dislocation,2022-10-03,33
+Shaheen Afridi,finger dislocation,2023-08-08,15
+Shaheen Afridi,knee ligament tear,2022-11-16,15
+Fakhar Zaman,finger dislocation,2022-02-06,18
+Fakhar Zaman,ankle sprain,2021-05-11,42
+Fakhar Zaman,wrist fracture,2023-05-13,5
+Fakhar Zaman,shoulder dislocation,2022-01-22,33
+Mohammad Rizwan,concussion,2022-05-16,56
+Mohammad Rizwan,concussion,2023-07-06,64
+Mohammad Rizwan,back spasm,2022-11-28,18
+Mohammad Rizwan,shoulder dislocation,2023-08-05,12
+Mohammad Rizwan,knee ligament tear,2022-05-24,40
+Shadab Khan,hamstring strain,2022-03-15,70
+Shadab Khan,finger dislocation,2023-06-05,20
+Haris Rauf,ankle sprain,2023-05-15,6
+Haris Rauf,back spasm,2021-10-26,49
+Haris Rauf,shoulder dislocation,2021-10-07,44
+Haris Rauf,wrist fracture,2021-07-30,14
+Imam-ul-Haq,hamstring strain,2022-12-15,34
+Imam-ul-Haq,side strain,2021-11-02,77
+Imam-ul-Haq,knee ligament tear,2022-12-14,15
+Imam-ul-Haq,hamstring strain,2021-11-07,57
+Imam-ul-Haq,groin injury,2022-05-15,72
+Hasan Ali,wrist fracture,2023-11-20,10
+Hasan Ali,ankle sprain,2023-04-30,34
+Hasan Ali,groin injury,2022-07-02,88
+Imad Wasim,groin injury,2024-01-24,81
+Imad Wasim,back spasm,2022-06-23,32
+Imad Wasim,hamstring strain,2023-09-09,84
+Imad Wasim,wrist fracture,2023-08-13,75
+Imad Wasim,concussion,2022-04-22,34
+Mohammad Nawaz,ankle sprain,2023-04-11,46
+Mohammad Nawaz,back spasm,2021-02-07,48
+Mohammad Nawaz,shoulder dislocation,2024-02-13,10
+Temba Bavuma,ankle sprain,2021-05-12,79
+Temba Bavuma,back spasm,2022-01-17,36
+Temba Bavuma,hamstring strain,2024-01-15,68
+Kagiso Rabada,side strain,2023-05-06,29
+Kagiso Rabada,back spasm,2021-05-09,16
+Kagiso Rabada,shoulder dislocation,2024-01-25,21
+Kagiso Rabada,hamstring strain,2021-02-27,13
+Kagiso Rabada,ankle sprain,2022-07-20,63
+Quinton de Kock,wrist fracture,2023-09-29,68
+Quinton de Kock,concussion,2021-05-03,65
+Quinton de Kock,shoulder dislocation,2023-10-17,82
+Quinton de Kock,ankle sprain,2023-10-02,18
+Quinton de Kock,back spasm,2021-12-07,88
+Anrich Nortje,knee ligament tear,2022-08-20,70
+Anrich Nortje,knee ligament tear,2021-07-23,9
+Anrich Nortje,knee ligament tear,2024-02-11,14
+Lungi Ngidi,back spasm,2023-01-09,63
+Lungi Ngidi,hamstring strain,2023-09-19,28
+Lungi Ngidi,side strain,2022-01-31,58
+Aiden Markram,concussion,2021-11-02,10
+Aiden Markram,shoulder dislocation,2022-07-21,42
+Aiden Markram,concussion,2023-03-11,79
+David Miller,knee ligament tear,2021-02-15,32
+David Miller,ankle sprain,2022-05-10,62
+David Miller,side strain,2023-09-26,46
+Keshav Maharaj,knee ligament tear,2021-06-25,33
+Keshav Maharaj,groin injury,2021-05-15,17
+Tabraiz Shamsi,concussion,2022-10-04,28
+Tabraiz Shamsi,ankle sprain,2022-04-02,81
+Tabraiz Shamsi,finger dislocation,2023-04-16,70
+Reeza Hendricks,wrist fracture,2022-01-01,29
+Reeza Hendricks,hamstring strain,2024-01-03,18
+Reeza Hendricks,concussion,2021-07-25,19
+Reeza Hendricks,finger dislocation,2021-06-25,38
+Shai Hope,concussion,2021-10-29,88
+Shai Hope,side strain,2022-07-28,14
+Shai Hope,back spasm,2021-12-28,11
+Shai Hope,concussion,2022-05-31,59
+Nicholas Pooran,ankle sprain,2021-11-19,81
+Nicholas Pooran,knee ligament tear,2024-03-28,70
+Nicholas Pooran,groin injury,2024-02-29,84
+Nicholas Pooran,side strain,2023-10-01,35
+Jason Holder,concussion,2021-06-26,14
+Jason Holder,back spasm,2023-06-12,82
+Jason Holder,wrist fracture,2023-04-20,71
+Alzarri Joseph,wrist fracture,2023-10-21,89
+Alzarri Joseph,back spasm,2021-05-15,71
+Alzarri Joseph,finger dislocation,2022-09-29,65
+Romario Shepherd,side strain,2021-06-27,79
+Romario Shepherd,shoulder dislocation,2023-06-23,27
+Shimron Hetmyer,groin injury,2023-02-26,46
+Shimron Hetmyer,concussion,2023-01-21,48
+Shimron Hetmyer,shoulder dislocation,2022-11-16,79
+Roston Chase,finger dislocation,2022-11-18,67
+Roston Chase,shoulder dislocation,2023-10-11,43
+Roston Chase,ankle sprain,2022-07-12,67
+Roston Chase,finger dislocation,2023-01-03,5
+Brandon King,back spasm,2022-01-07,70
+Brandon King,finger dislocation,2023-02-13,59
+Brandon King,side strain,2022-07-12,50
+Gudakesh Motie,shoulder dislocation,2022-08-12,5
+Gudakesh Motie,wrist fracture,2021-04-04,30
+Gudakesh Motie,ankle sprain,2023-12-18,79
+Kyle Mayers,groin injury,2022-09-01,52
+Kyle Mayers,back spasm,2021-02-09,67
+Kyle Mayers,finger dislocation,2023-11-05,39
+Kyle Mayers,wrist fracture,2023-01-31,7
+Litton Das,ankle sprain,2023-08-03,10
+Litton Das,groin injury,2023-10-09,47
+Litton Das,shoulder dislocation,2021-03-14,50
+Litton Das,back spasm,2022-01-28,54
+Shakib Al Hasan,concussion,2022-10-26,27
+Shakib Al Hasan,knee ligament tear,2024-01-16,13
+Taskin Ahmed,wrist fracture,2021-05-01,44
+Taskin Ahmed,wrist fracture,2021-03-25,41
+Taskin Ahmed,side strain,2021-02-07,39
+Taskin Ahmed,wrist fracture,2021-06-03,13
+Mustafizur Rahman,side strain,2023-01-08,50
+Mustafizur Rahman,finger dislocation,2023-02-07,79
+Mahmudullah,concussion,2022-05-20,65
+Mahmudullah,side strain,2023-04-08,75
+Mehidy Hasan,shoulder dislocation,2021-07-13,59
+Mehidy Hasan,wrist fracture,2021-08-06,80
+Mushfiqur Rahim,shoulder dislocation,2021-09-13,24
+Mushfiqur Rahim,hamstring strain,2021-04-14,81
+Afif Hossain,knee ligament tear,2023-08-21,56
+Afif Hossain,side strain,2024-04-09,19
+Afif Hossain,concussion,2021-12-21,80
+Afif Hossain,hamstring strain,2023-07-11,76
+Najmul Hossain Shanto,finger dislocation,2022-02-01,60
+Najmul Hossain Shanto,knee ligament tear,2022-05-11,26
+Najmul Hossain Shanto,finger dislocation,2021-01-19,85
+Najmul Hossain Shanto,ankle sprain,2022-05-26,43
+Najmul Hossain Shanto,back spasm,2021-07-12,39
+Nasum Ahmed,ankle sprain,2021-10-22,84
+Nasum Ahmed,knee ligament tear,2021-03-28,10
+Nasum Ahmed,hamstring strain,2023-09-29,39
+Nasum Ahmed,concussion,2024-02-16,88
+Nasum Ahmed,shoulder dislocation,2023-12-25,85
+Wanindu Hasaranga,hamstring strain,2021-11-06,10
+Wanindu Hasaranga,shoulder dislocation,2022-12-30,76
+Wanindu Hasaranga,back spasm,2022-03-03,6
+Wanindu Hasaranga,wrist fracture,2021-09-08,89
+Wanindu Hasaranga,concussion,2021-02-04,54
+Kusal Mendis,back spasm,2024-03-03,44
+Kusal Mendis,groin injury,2022-07-24,88
+Kusal Mendis,groin injury,2023-12-27,81
+Dasun Shanaka,hamstring strain,2022-09-19,60
+Dasun Shanaka,concussion,2021-08-30,56
+Dasun Shanaka,knee ligament tear,2022-03-26,54
+Dasun Shanaka,side strain,2023-11-12,32
+Pathum Nissanka,hamstring strain,2021-10-20,73
+Pathum Nissanka,wrist fracture,2023-10-25,27
+Pathum Nissanka,hamstring strain,2021-10-24,12
+Pathum Nissanka,knee ligament tear,2023-02-23,8
+Maheesh Theekshana,knee ligament tear,2023-07-06,70
+Maheesh Theekshana,groin injury,2022-10-04,36
+Maheesh Theekshana,wrist fracture,2021-01-12,54
+Angelo Mathews,wrist fracture,2021-10-28,9
+Angelo Mathews,wrist fracture,2023-07-10,5
+Angelo Mathews,ankle sprain,2023-12-11,8
+Angelo Mathews,knee ligament tear,2021-08-14,49
+Angelo Mathews,concussion,2023-05-14,79
+Dhananjaya de Silva,concussion,2024-02-16,52
+Dhananjaya de Silva,wrist fracture,2022-02-01,57
+Charith Asalanka,hamstring strain,2023-01-22,75
+Charith Asalanka,finger dislocation,2022-03-16,43
+Charith Asalanka,finger dislocation,2022-04-25,36
+Charith Asalanka,side strain,2022-10-30,42
+Charith Asalanka,knee ligament tear,2021-04-17,15
+Lahiru Kumara,ankle sprain,2022-04-05,29
+Lahiru Kumara,back spasm,2023-09-07,36
+Lahiru Kumara,groin injury,2021-04-04,67
+Lahiru Kumara,back spasm,2023-04-16,31
+Lahiru Kumara,concussion,2023-03-11,65
+Kasun Rajitha,knee ligament tear,2021-03-29,7
+Kasun Rajitha,finger dislocation,2023-02-12,49
+Kasun Rajitha,knee ligament tear,2022-05-24,47
+Kasun Rajitha,groin injury,2021-09-20,44
+Kasun Rajitha,groin injury,2024-03-31,90
